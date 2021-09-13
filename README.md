@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @gdejanovic
-- 👀 I’m interested in web developement and coding
-- 🌱 I’m currently learning JavaScript and React
-- 💞️ I’m looking to collaborate on new projects...
-- 📫 How to reach me by dm...
+- 👋 Hi, I’m @Goran Dejanovic
+- 👀 I’m interested in Frontend and UI  stack: HTML5 / CSS3 / JS / React JS /      + Bootstrap / GIT / WordPress
+- 🌱 I’m currently creatign small Single page apps..
+- - 💞️ I’m looking to find part time or full time employment...
+- 📫 How to reach me by dm... www.legonato.hr contact form
 
 <!---
 gdejanovic/gdejanovic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
