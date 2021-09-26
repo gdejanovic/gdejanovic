@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Goran Dejanovic
-- 👀 I’m interested in Frontend and UI  stack: HTML5 / CSS3 / JS / React JS /      + Bootstrap / GIT / WordPress
+- 👀 I’m interested in Frontend and UI  stack: HTML5 / CSS3 / SASS / JS / React JS /      + Bootstrap / GIT / WordPress
 - 🌱 I’m currently creatign small Single page apps..
 - 💞️ I’m looking to find part time or full time employment...
 - 📫 How to reach me by dm... www.legonato.hr contact form
